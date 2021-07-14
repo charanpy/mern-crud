@@ -1,0 +1,6 @@
+{
+   "mongo": "mongodb+srv://charan:charan123@cluster0.nvkgg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "jwtSecret": "mernsocial",
+            "githubClient": "4b37af3047752eac104a",
+            "githubSecret": "88a1063329e17c5e9215b65f9f40efba64c91bae"
+}
